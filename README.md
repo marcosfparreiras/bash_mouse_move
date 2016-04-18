@@ -1,5 +1,5 @@
 # About it
-This is a simple bash script that moves the cursor automatically each 2 minutes.
+This is a simple bash script that moves the cursor automatically each 3 minutes.
 
 # How to use it
 In order to run it, it's necessary to have the `xdotools` installed. For installing, it, just type the following command:
